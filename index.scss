@@ -1,0 +1,9 @@
+@use 'fonts';
+
+@import 'header'; 
+@import 'main'; 
+
+@import'card';
+body {
+    font-family: fonts.$main-font;
+}
