@@ -3,7 +3,7 @@
     margin : 0;
 }
 .header
-{height:10vh;border-bottom:1px solid #2196f3;background-color:#021937;margin:0;display:flex;justify-content:space-between;align-items:center;}
+{height:10vh;border-bottom:1px solid #2196f3;background-color:#021937;margin-left:25px;display:flex;justify-content:space-between;align-items:center;}
 
 .logo{margin-left:30px;font-size:40px;font-family:"Bangers",cursive;color:#ff7300;}
 
